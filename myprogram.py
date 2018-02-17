@@ -9,4 +9,3 @@
 # age = input("Enter your age: ")
 # new_age = int(age)+50
 # print(new_age)
-print(20-10/5*3**2) #Operation Rule: Exponent, Division, Multiplication, Addition, Subtraction
